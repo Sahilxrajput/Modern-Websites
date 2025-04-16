@@ -465,6 +465,7 @@ footer .right{
     justify-content: center;
     position: absolute;
     left: 30px;
+    box-shadow: 2px 2px 15px 2px #1c1c1a;
     background-color: #c4bcb3;
 }
 .reviewCard .text{
