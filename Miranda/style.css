@@ -391,12 +391,20 @@ footer .left{
     font-size: 1.3rem;
     border: none;
 } 
-footer .right{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 25px;
+footer .right {
+font-size: 3rem;
+margin-left: 25px;
 }
+
+footer .right i {
+    font-size: 1.5rem;
+    margin-left: 50px;
+    color: #121212
+}
+footer .right{
+    text-align: center;
+}
+
 .upper-footer{
     border-top: 1px solid #1c1c1a85;
     margin: 0 30px;
